@@ -4,6 +4,7 @@ This repository contains interactive visualizations designed to explore migratio
 
 ## Link
 - **https://colab.research.google.com/drive/1zb6EsG88yME5BlvdBFTLFL6fnp4JPxwz?usp=sharing**
+- **https://youtu.be/sdWw5COpMuc**
 
 ## Key Features:
 - **Choropleth Maps**: Visualize migration data (immigration, emigration, refugees) on a world map, with color gradients representing the volume of migrants and refugees for each country.
