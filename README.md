@@ -21,3 +21,11 @@ These visualizations help to better understand migration patterns, supporting da
 - **GeoJSON**: For displaying geographical data in choropleth maps.
 
 This repository is intended for use by data analysts, researchers, or anyone interested in exploring migration trends on a global scale.
+
+## General Examples
+
+![Image 1](https://github.com/Tolga-dev/DataVisulation/blob/main/1.png)
+![Image 2](https://github.com/Tolga-dev/DataVisulation/blob/main/2.png)
+![Image 3](https://github.com/Tolga-dev/DataVisulation/blob/main/3.png)
+![Image 4](https://github.com/Tolga-dev/DataVisulation/blob/main/4.png)
+
