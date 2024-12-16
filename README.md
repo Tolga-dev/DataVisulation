@@ -22,10 +22,18 @@ These visualizations help to better understand migration patterns, supporting da
 
 This repository is intended for use by data analysts, researchers, or anyone interested in exploring migration trends on a global scale.
 
-## General Examples
+ 
+## Visualizations
 
-![Image 1](https://github.com/Tolga-dev/DataVisulation/blob/main/1.png)
-![Image 2](https://github.com/Tolga-dev/DataVisulation/blob/main/2.png)
-![Image 3](https://github.com/Tolga-dev/DataVisulation/blob/main/3.png)
-![Image 4](https://github.com/Tolga-dev/DataVisulation/blob/main/4.png)
+### Emigrants Map
+![Emigrant Map](https://github.com/Tolga-dev/DataVisulation/blob/main/1.png)
+
+### Immigrants Map
+![Immigrant Map](https://github.com/Tolga-dev/DataVisulation/blob/main/2.png)
+
+### Net Migration Map
+![Net Migration Map](https://github.com/Tolga-dev/DataVisulation/blob/main/3.png)
+
+### Refugees Map
+![Refugee Map](https://github.com/Tolga-dev/DataVisulation/blob/main/4.png)
 
