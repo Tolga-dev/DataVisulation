@@ -2,6 +2,9 @@
 
 This repository contains interactive visualizations designed to explore migration trends globally, focusing on immigration, emigration, and refugee movements from 1995 to today. Using various types of data visualizations, including choropleth maps and bar charts, the goal is to present insightful trends and comparisons in the migration data across different countries and years.
 
+## Link
+- **https://colab.research.google.com/drive/1zb6EsG88yME5BlvdBFTLFL6fnp4JPxwz?usp=sharing**
+
 ## Key Features:
 - **Choropleth Maps**: Visualize migration data (immigration, emigration, refugees) on a world map, with color gradients representing the volume of migrants and refugees for each country.
 - **Bar Charts**: Yearly breakdown of the top countries for immigration, emigration, and refugees, highlighting the most significant migration flows.
